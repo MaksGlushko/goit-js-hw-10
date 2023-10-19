@@ -17,7 +17,7 @@ refs.select.style.display = 'none';
 refs.catCard.style.display = 'none';
 
 Loading.dots({
-  svgColor: '#5897fb',
+  svgColor: '#5897fb', 
   svgSize: '130px',
   messageFontSize: '30px',
 });
